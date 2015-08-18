@@ -1,0 +1,112 @@
+From darkrho at gmail.com  Sat Mar 11 13:32:57 2006
+From: darkrho at gmail.com (Rolando Espinoza La Fuente)
+Date: Sat, 11 Mar 2006 08:32:57 -0400
+Subject: [Mhc-bo-devel] mhc rulez!
+Message-ID: <4eca3f40603110432obb4d106gcaf1f5ccf074bad0@mail.gmail.com>
+
+--
+~Rho
+  GPG Key:              http://darkstar.pinguinos.org/~rolando/darkrho.key.asc
+  GPG Fingerprint:  7D78 045D 1F4E 28ED 0FC7 53A3 20B1 57FA 4DEB 6EA6
+
+
+From jotajota at hetnet.nl  Sat Mar 11 19:34:32 2006
+From: jotajota at hetnet.nl (Juan Jose Olivera Rodriguez)
+Date: Sat, 11 Mar 2006 14:34:32 -0400
+Subject: [Mhc-bo-devel] To do
+Message-ID: <1142102072.8748.9.camel@localhost.localdomain>
+
+- Web page -> Rolando
+- Makefile -> Daniel 
+- Operators -> ?
+- Examples -> ?
+- Semantic Functions  (Ags) -> ?
+- Documentation -> ?
+
+
+
+From jotajota at hetnet.nl  Sat Mar 11 19:55:57 2006
+From: jotajota at hetnet.nl (Juan Jose Olivera Rodriguez)
+Date: Sat, 11 Mar 2006 14:55:57 -0400
+Subject: [Mhc-bo-devel] To do 2
+Message-ID: <1142103358.9605.0.camel@localhost.localdomain>
+
+Semantic functions -> Juan Jose
+
+
+
+From jotajota at hetnet.nl  Sat Mar 11 19:59:33 2006
+From: jotajota at hetnet.nl (Juan Jose Olivera Rodriguez)
+Date: Sat, 11 Mar 2006 14:59:33 -0400
+Subject: [Mhc-bo-devel] To do 2
+In-Reply-To: <1142103358.9605.0.camel@localhost.localdomain>
+References: <1142103358.9605.0.camel@localhost.localdomain>
+Message-ID: <1142103573.9605.3.camel@localhost.localdomain>
+
+Examples -> Cesar Jesus
+El s?b, 11-03-2006 a las 14:55 -0400, Juan Jose Olivera Rodriguez
+escribi?:
+> Semantic functions -> Juan Jose
+> 
+> _______________________________________________
+> Mhc-bo-devel mailing list
+> Mhc-bo-devel at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/mhc-bo-devel
+
+
+
+From jotajota at hetnet.nl  Sat Mar 11 20:02:14 2006
+From: jotajota at hetnet.nl (Juan Jose Olivera Rodriguez)
+Date: Sat, 11 Mar 2006 15:02:14 -0400
+Subject: [Mhc-bo-devel] To do 2
+In-Reply-To: <1142103573.9605.3.camel@localhost.localdomain>
+References: <1142103358.9605.0.camel@localhost.localdomain>
+	 <1142103573.9605.3.camel@localhost.localdomain>
+Message-ID: <1142103735.9605.5.camel@localhost.localdomain>
+
+:D
+El s?b, 11-03-2006 a las 14:59 -0400, Juan Jose Olivera Rodriguez
+escribi?:
+> Examples -> Cesar Jesus
+> El s?b, 11-03-2006 a las 14:55 -0400, Juan Jose Olivera Rodriguez
+> escribi?:
+> > Semantic functions -> Juan Jose
+> > 
+> > _______________________________________________
+> > Mhc-bo-devel mailing list
+> > Mhc-bo-devel at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/mhc-bo-devel
+> 
+> _______________________________________________
+> Mhc-bo-devel mailing list
+> Mhc-bo-devel at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/mhc-bo-devel
+
+
+
+From jotajota at hetnet.nl  Sat Mar 11 19:39:52 2006
+From: jotajota at hetnet.nl (Juan Jose Olivera Rodriguez)
+Date: Sat, 11 Mar 2006 14:39:52 -0400
+Subject: [Mhc-bo-devel] To do
+In-Reply-To: <1142102072.8748.9.camel@localhost.localdomain>
+References: <1142102072.8748.9.camel@localhost.localdomain>
+Message-ID: <1142102392.8748.11.camel@localhost.localdomain>
+
+Semantic functions -> Juan Jose
+
+El s?b, 11-03-2006 a las 14:34 -0400, Juan Jose Olivera Rodriguez
+escribi?:
+> - Web page -> Rolando
+> - Makefile -> Daniel 
+> - Operators -> ?
+> - Examples -> ?
+> - Semantic Functions  (Ags) -> ?
+> - Documentation -> ?
+> 
+> _______________________________________________
+> Mhc-bo-devel mailing list
+> Mhc-bo-devel at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/mhc-bo-devel
+
+
+
